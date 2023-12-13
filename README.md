@@ -6,8 +6,5 @@
 - 🌱 I’m currently learning product management, web accessibility, and technical writing for developers. I believe these areas would allow me to combine my passion for communication with my interest in technology.
 - 🚀 I am currently seeking job opportunities where I can use my skills and experience to help businesses communicate their technical information effectively.
 - 📫 How to reach me ... You can reach me at hillarymarian92@gmail.com or https://www.linkedin.com/in/hillary-romero-paiva/
- 
-HillaryRomero/HillaryRomero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
